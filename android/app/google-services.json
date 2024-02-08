@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425456781571",
+    "project_id": "inexoft-187c5",
+    "storage_bucket": "inexoft-187c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425456781571:android:7ea041064597ce54c10136",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDILRKRvsToR-2nnbHWVKuFS11hlNkV_74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
